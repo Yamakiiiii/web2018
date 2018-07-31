@@ -1,0 +1,29 @@
+body { background-image: url("haikei.gif");}
+h1{
+background
+width:1300px;
+height: 100px;
+text-align: center;
+font-weight: bold;
+}
+li{
+width:100px;
+height: 40px;
+text-align: center;
+font-weight: bold
+}
+
+
+
+
+
+
+
+
+{position:static;top:0;left:10px;right:10px;}
+h1 {color:blue; line-height:1.5;}    
+th,td{border:dashed thick black;}
+th.important { color: red; }
+p.sample1{border:double 10px #0000ff;}
+p.sample2{border:inset 10px #ff0000;}
+p.sample3{margin:30px 30px;padding:10px;border:medium solid #ff00ff;}
