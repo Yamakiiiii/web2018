@@ -1,29 +1,41 @@
-body { background-image: url("haikei.gif");}
+body { background-color:#cd5c5c;
+}
+
+#page{
+ width: 1300px;
+ margin: 0 auto 0 auto;
+ background-color:#ffb6c1;
+ }
+
+#site_title {
+ width: 500px;
+ margin: 0 auto 0auto;
+ }
+#header {
+    background-image: url("image/cake.2.jpg");
+    background-position: center;
+  width: 1300px;
+ margin: 0 auto 0 auto;
+}
+ 
+
+#a-box{ float: left;
+           width: 300px;
+           font-size: 18px;}
 h1{
-background
+color:#cd5c5c;
 width:1300px;
 height: 100px;
 text-align: center;
 font-weight: bold;
 }
-li{
-width:100px;
-height: 40px;
-text-align: center;
-font-weight: bold
-}
+
+td{ border: inset 4px aliceblue;}
+th{ background-color:#fffacd;}
+th{ border: double 6px aliceblue;}
+
+document{.src = 'img/change_ph02.jpg'; void(0);">
 
 
 
 
-
-
-
-
-{position:static;top:0;left:10px;right:10px;}
-h1 {color:blue; line-height:1.5;}    
-th,td{border:dashed thick black;}
-th.important { color: red; }
-p.sample1{border:double 10px #0000ff;}
-p.sample2{border:inset 10px #ff0000;}
-p.sample3{margin:30px 30px;padding:10px;border:medium solid #ff00ff;}
