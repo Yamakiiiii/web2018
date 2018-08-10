@@ -1,11 +1,11 @@
  function fruit1(){
-  document.getElementByld('myImage').src='./image/father.png';}
+  document.getElementById('myImage').src='./image/budou.png';}
 
 function fruit2(){
-  document.getElementByld('myImage').src='./image/mikan.png';}
+  document.getElementById('myImage').src='./image/mikan.png';}
 
 function fruit3(){
-  document.getElementByld('myImage').src='./image/melon.png';}
+  document.getElementById('myImage').src='./image/melon.png';}
 
 
 
